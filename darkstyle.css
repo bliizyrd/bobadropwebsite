@@ -1,0 +1,19 @@
+body {
+background: black;
+color: white;
+align-items: center;
+text-align: center;
+
+}
+
+.button {
+	background-color: grey;
+	border: 3px solid rgb(14, 0, 0);
+	font-size: larger;
+	font-family: monospace;
+	color: black;
+}
+
+img {
+	width: 500px;
+}
